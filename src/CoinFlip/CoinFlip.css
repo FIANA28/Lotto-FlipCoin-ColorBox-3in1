@@ -1,0 +1,8 @@
+.CoinFlip button {
+    background-color: black;
+    color: yellow;
+    font-size: 110%;
+    border-radius: 10px;
+    padding: 1em auto; 
+    margin: 1em 0 1em 0;
+}
